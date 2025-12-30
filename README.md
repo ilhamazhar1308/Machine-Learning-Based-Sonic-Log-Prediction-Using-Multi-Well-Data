@@ -1,0 +1,2 @@
+# Machine-Learning-Based-Sonic-Log-Prediction-Using-Multi-Well-Data
+This project was developed as part of the Geophysical Data Analysis practicum. After understanding and analyzing existing well log processing codes, the workflow was redesigned and optimized based on personal comprehension, demonstrating a complete pipeline for multi-well LAS analysis and machine learning–based sonic log prediction.
