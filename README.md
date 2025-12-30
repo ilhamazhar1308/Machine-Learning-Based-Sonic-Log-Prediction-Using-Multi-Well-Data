@@ -139,7 +139,7 @@ The workflow produces:
 ---
 
 ## Limitations
-- Uses synthetic data
+- Uses synthetic data (users are encouraged to test the workflow using real field data)
 - Limited number of wells
 - No geological zoning or facies modeling
 - No uncertainty quantification
