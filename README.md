@@ -185,7 +185,7 @@ All constructive feedback is highly appreciated for future development.
 
 **Ilham Azhar**  
 Geophysical Engineering  
-Institut Teknologi Sumatera (ITERA)
+Sumatera Institute of Technology (ITERA)
 
 ---
 
